@@ -28,5 +28,15 @@
     "tiktok": "https://tiktok.com/locutor3",
     "youtube": "https://youtube.com/locutor3",
     "instagram": "https://instagram.com/locutor3"
+  },
+  {
+    "nombre": "Locutor 4",
+    "inicio": "18:00",
+    "fin": "23:00",
+    "whatsapp": "https://wa.me/1234567892",
+    "facebook": "https://facebook.com/locutor3",
+    "tiktok": "https://tiktok.com/locutor3",
+    "youtube": "https://youtube.com/locutor3",
+    "instagram": "https://instagram.com/locutor3"
   }
 ]
