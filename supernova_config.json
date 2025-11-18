@@ -1,16 +1,16 @@
 {
-  "version_git": "1.0.0",
+  "version_git": "1.0.1",
 
   "station": "SUPERNOVA 92.7 FM",
   "mount": "wrgtjlo80ctvv",
   "stream_url": "https://stream.zeno.fm/wrgtjlo80ctvv",
 
-  "share": "Escucha Supernova 92.7 FM desde la aplicación - SUPERNOVA 92.7 FM https://www.dropbox.com/scl/fi/emm57g914rbjyw7abcbp1/app-release.apk?rlkey=oh6mass78b5j4i5d4ztybjki7&st=aafdmudj&dl=1",
+  "share": "Escucha Supernova 92.7 FM desde la aplicación - SUPERNOVA 92.7 FM https://www.dropbox.com/scl/fi/h5fz138oilfynbce59mjw/Supernova-92-7-FM.apk?rlkey=qnmueh2sy51ruy946kfl03d8u&e=1&st=17mzb9nr&dl=1",
   "rate": "https://wa.me/584127871663",
 
   "config": {
     "background": "https://i.imgur.com/D5FWl0w.png",
-    "version": "1.0", 
+    "version": "1.0.1", 
     "desarrollador": "https://wa.me/584127871663"
   },
 
@@ -18,33 +18,43 @@
     "weekdays": [
       {
         "start": 0,
-        "end": 6,
-        "name": "VALLENATO",
-        "facebook": "",
+        "end": 4,
+        "name": "VALLENATOS",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
         "instagram": "",
         "tiktok": "",
         "youtube": "",
-        "whatsapp": ""
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "name": "MÚSICA VENEZOLANA",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "",
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
       },
       {
         "start": 6,
         "end": 8,
         "name": "BUENA SEMILLA",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
         "instagram": "",
         "tiktok": "",
         "youtube": "",
-        "whatsapp": ""
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
       },
       {
         "start": 8,
         "end": 10,
         "name": "EL MACHIQUENSE",
         "facebook": "https://www.facebook.com/falEM69",
-        "instagram": "",
+        "instagram": "https://www.instagram.com/elmachiquensedigital",
         "tiktok": "https://www.tiktok.com/@elmachiquense",
         "youtube": "https://www.youtube.com/@elmachiquensetv",
-        "whatsapp": "https://wa.me/584127909138"
+        "whatsapp": "https://wa.me/584127909138?text=*¡Hola Freddy!*%0AEn sisntonia de *El Machiquense* desde la *Aplicación* *SUPERNOVA 92.7 FM*'"
       },
       {
         "start": 10,
@@ -54,7 +64,7 @@
         "instagram": "",
         "tiktok": "https://www.tiktok.com/@nore1223",
         "youtube": "",
-        "whatsapp": "https://wa.me/584146557963"
+        "whatsapp": "https://wa.me/584146557963?text=*¡Hola Arnedo!*%0AEn sisntonia de *LA BAILANTA SUPERNOVA* desde la *Aplicación*'"
       },
       {
         "start": 13,
@@ -64,7 +74,7 @@
         "instagram": "",
         "tiktok": "https://www.tiktok.com/@edwins4444",
         "youtube": "",
-        "whatsapp": "https://wa.me/584127881021"
+        "whatsapp": "https://wa.me/584127881021?text=*¡Hola Edwin!*%0AEn sisntonia de *ALMAS PARA CRISTO* desde la *Aplicación*'"
       },
       {
         "start": 14,
@@ -74,7 +84,7 @@
         "instagram": "",
         "tiktok": "",
         "youtube": "",
-        "whatsapp": "https://wa.me/584246912610"
+        "whatsapp": "https://wa.me/584246912610?text=*¡Hola Yorman!*%0AEn sisntonia de *ATARDECER VALLENATO* desde la *Aplicación*'"
       },
       {
         "start": 16,
@@ -84,7 +94,7 @@
         "instagram": "",
         "tiktok": "https://www.tiktok.com/@nore1223",
         "youtube": "",
-        "whatsapp": "https://wa.me/584146557963"
+        "whatsapp": "https://wa.me/584146557963?text=*¡Hola Norelkis!*%0AEn sisntonia de *LA BAILANTA SUPERNOVA* desde la *Aplicación*'"
       },
       {
         "start": 18,
@@ -93,8 +103,8 @@
         "facebook": "http://facebook.com/GMRomeoJG",
         "instagram": "https://www.instagram.com/joseguerreromqs/",
         "tiktok": "https://www.tiktok.com/@chalekero",
-        "youtube": "https://www.youtube.com/@Chalekero4K",
-        "whatsapp": "https://wa.me/584127871663"
+        "youtube": "https://www.youtube.com/@chalekero4K",
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola CHALEKERO!*%0AEn sisntonia de *ARROZ CON MANGO* desde la *Aplicación*'"
       },
       {
         "start": 20,
@@ -104,151 +114,202 @@
         "instagram": "",
         "tiktok": "https://www.tiktok.com/@erasmoyepez21",
         "youtube": "",
-        "whatsapp": "https://wa.me/584127981752"
+        "whatsapp": "https://wa.me/584127981752?text=*¡Hola Erasmo Yepez!*%0AEn sintonia desde la *Aplicación*'"
       },
       {
         "start": 22,
         "end": 24,
-        "name": "VALLENATO",
-        "facebook": "",
+        "name": "VALLENATOS",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
         "instagram": "",
         "tiktok": "",
         "youtube": "",
-        "whatsapp": ""
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
       }
     ],
 
     "weekends": [
       {
+        "start": 0,
+        "end": 4,
+        "name": "VALLENATOS",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "",
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "name": "MÚSICA VENEZOLANA",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "",
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
+      },
+      {
         "start": 6,
         "end": 7,
         "name": "1 HORA DE GAITA",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
         "instagram": "",
         "tiktok": "",
         "youtube": "",
-        "whatsapp": ""
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
       },
       {
         "start": 7,
-        "end": 8,
-        "name": "VAREADO",
-        "facebook": "",
+        "end": 7.5,
+        "name": "30 MINUTOS DE BACHATA",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
         "instagram": "",
         "tiktok": "",
         "youtube": "",
-        "whatsapp": ""
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
+      },
+      {
+        "start": 7.5,
+        "end": 8,
+        "name": "30 MINUTOS DE REGGAETON",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "",
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
       },
       {
         "start": 8,
         "end": 9,
         "name": "1 HORA DE MERENGUE",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
         "instagram": "",
         "tiktok": "",
         "youtube": "",
-        "whatsapp": ""
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
       },
       {
         "start": 9,
         "end": 10,
         "name": "1 HORA DE GAITA",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
         "instagram": "",
         "tiktok": "",
         "youtube": "",
-        "whatsapp": ""
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
       },
       {
         "start": 10,
         "end": 11,
         "name": "1 HORA DE RANCHERAS",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
         "instagram": "",
         "tiktok": "",
         "youtube": "",
-        "whatsapp": ""
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
       },
       {
         "start": 11,
         "end": 12,
         "name": "1 HORA DE VALLENATO",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
         "instagram": "",
         "tiktok": "",
         "youtube": "",
-        "whatsapp": ""
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
       },
       {
         "start": 12,
         "end": 14,
-        "name": "MÚSICA DEL RECUERDO",
-        "facebook": "",
+        "name": "BALADAS DE SIEMPRE",
+        "facebook": "https://www.facebook.com/jon.salas.1426",
         "instagram": "",
         "tiktok": "",
         "youtube": "",
-        "whatsapp": ""
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
       },
       {
         "start": 14,
-        "end": 16,
-        "name": "HEFZIBA AL AIRE",
-        "facebook": "",
+        "end": 15,
+        "name": "1 HORA DE RANCHERAS",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
         "instagram": "",
         "tiktok": "",
         "youtube": "",
-        "whatsapp": ""
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "name": "1 HORA DE VALLENATO",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "",
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
       },
       {
         "start": 16,
         "end": 17,
         "name": "1 HORA DE SALSA",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
         "instagram": "",
         "tiktok": "",
         "youtube": "",
-        "whatsapp": ""
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
       },
       {
         "start": 17,
         "end": 18,
         "name": "1 HORA DE MERENGUE",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
         "instagram": "",
         "tiktok": "",
         "youtube": "",
-        "whatsapp": ""
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
       },
       {
         "start": 18,
         "end": 19,
         "name": "1 HORA DE GAITA",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
         "instagram": "",
         "tiktok": "",
         "youtube": "",
-        "whatsapp": ""
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
       },
       {
         "start": 19,
-        "end": 20,
-        "name": "VAREADO",
-        "facebook": "",
+        "end": 19.5,
+        "name": "30 MINUTOS DE REGGAETON",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
         "instagram": "",
         "tiktok": "",
         "youtube": "",
-        "whatsapp": ""
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
+      },
+      {
+        "start": 19.5,
+        "end": 20,
+        "name": "30 MINUTOS DE BACHATA",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "",
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
       },
       {
         "start": 20,
         "end": 24,
-        "name": "VALLENATO",
-        "facebook": "",
+        "name": "VALLENATOS",
+        "facebook": "https://www.facebook.com/supernovafm.machiques",
         "instagram": "",
         "tiktok": "",
         "youtube": "",
-        "whatsapp": ""
+        "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
       }
     ]
   }
+
 }
