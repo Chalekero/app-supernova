@@ -1,10 +1,10 @@
 {
-  "version_git": "1.0.0",
+  "version_git": "1.0.1",
 
   "station": "SUPERNOVA 92.7 FM",
 
   "config": {
-    "background": "https://i.imgur.com/D5FWl0w.png",
+    "background": "https://i.imgur.com/D5FWl0w.png"
   },
 
   "programs": {
@@ -188,5 +188,6 @@
       }
     ]
   }
+
 
 }
