@@ -1,0 +1,192 @@
+{
+  "version_git": "1.0.0",
+
+  "station": "SUPERNOVA 92.7 FM",
+
+  "config": {
+    "background": "https://i.imgur.com/D5FWl0w.png",
+  },
+
+  "programs": {
+    "weekdays": [
+      {
+        "start": 0,
+        "end": 4,
+        "name": "VALLENATOS",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "name": "MÚSICA VENEZOLANA",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "name": "BUENA SEMILLA",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "name": "EL MACHIQUENSE",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "name": "LA BAILANTA SUPERNOVA",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "name": "ALMAS PARA CRISTO",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "name": "ATARDECER VALLENATO",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "name": "ALEGRÍA DECEMBRINA",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "name": "ARROZ CON MANGO",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "name": "MI SUEÑO ES CON DIOS",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "name": "VALLENATOS",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      }
+    ],
+
+    "weekends": [
+      {
+        "start": 0,
+        "end": 4,
+        "name": "VALLENATOS",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "name": "MÚSICA VENEZOLANA",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "name": "1 HORA DE GAITA",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 7,
+        "end": 7.5,
+        "name": "30 MINUTOS DE BACHATA",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 7.5,
+        "end": 8,
+        "name": "30 MINUTOS DE REGGAETON",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "name": "1 HORA DE MERENGUE",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "name": "1 HORA DE GAITA",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "name": "1 HORA DE RANCHERAS",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 11,
+        "end": 12,
+        "name": "1 HORA DE VALLENATO",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "name": "BALADAS DE SIEMPRE",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 14,
+        "end": 15,
+        "name": "1 HORA DE RANCHERAS",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "name": "1 HORA DE VALLENATO",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 16,
+        "end": 17,
+        "name": "1 HORA DE SALSA",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 17,
+        "end": 18,
+        "name": "1 HORA DE MERENGUE",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "name": "1 HORA DE GAITA",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 19,
+        "end": 19.5,
+        "name": "30 MINUTOS DE REGGAETON",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 19.5,
+        "end": 20,
+        "name": "30 MINUTOS DE BACHATA",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "name": "VALLENATOS",
+        "logo": "https://i.imgur.com/BQoxVMl.png"
+      }
+    ]
+  }
+
+}
