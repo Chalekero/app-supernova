@@ -55,7 +55,7 @@
             "start": 8,
             "end": 10,
             "name": "EL MACHIQUENSE",
-            "logo": "https://i.imgur.com/BOSgY9T.png"
+            "logo": "https://i.imgur.com/StYUFOY.png"
         },
         {
             "dias": [
@@ -120,7 +120,7 @@
             "start": 18,
             "end": 20,
             "name": "ARROZ CON MANGO",
-            "logo": "https://i.imgur.com/BQoxVMl.png"
+            "logo": "https://i.imgur.com/BOSgY9T.png"
         },
         {
             "dias": [
@@ -330,4 +330,5 @@
         }
     ]
 }
+
 
