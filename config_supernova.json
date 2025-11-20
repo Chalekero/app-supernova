@@ -7,7 +7,6 @@
     "rate": "https://wa.me/584127871663",
     "config": {
         "background": "https://i.imgur.com/D5FWl0w.png",
-        "version": "1.0.1",
         "desarrollador": "https://wa.me/584127871663"
     },
     "programs": [
@@ -451,4 +450,5 @@
             "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*'"
         }
     ]
+
 }
