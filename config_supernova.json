@@ -1,5 +1,5 @@
 {
-    "version_git": "1.0.1",
+    "version_git": "1.0.2",
     "station": "SUPERNOVA 92.7 FM",
     "mount": "wrgtjlo80ctvv",
     "stream_url": "https://stream.zeno.fm/wrgtjlo80ctvv",
@@ -8,7 +8,6 @@
 
     "art_api": "https://metadata.jggg1994.workers.dev",
 
-    
     "config": {
         "background": "https://i.imgur.com/D5FWl0w.png",
         "background_programa": "https://i.imgur.com/PupQXkY.png",
@@ -486,9 +485,6 @@
     ]
 
 }
-
-
-
 
 
 
