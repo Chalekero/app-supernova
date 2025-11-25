@@ -1,10 +1,10 @@
 {
-    "version_git": "1.0.1",
+    "version_git": "1.0.0",
     "station": "SUPERNOVA 92.7 FM",
     "mount": "wrgtjlo80ctvv",
     "stream_url": "https://stream.zeno.fm/wrgtjlo80ctvv",
-    "share": "Escucha Supernova 92.7 FM desde la aplicación - SUPERNOVA 92.7 FM https://www.dropbox.com/scl/fi/h5fz138oilfynbce59mjw/Supernova-92-7-FM.apk?rlkey=qnmueh2sy51ruy946kfl03d8u&e=1&st=17mzb9nr&dl=1",
-    "rate": "https://wa.me/584127871663?text=*¡Hola CHALEKERO!*%0AQuiero Felicitarte por la *Aplicación*",
+    "share": "Escucha Supernova 92.7 FM desde la aplicación - SUPERNOVA 92.7 FM https://play.google.com/store/apps/details?id=radio.supernova.network",
+    "rate": "https://play.google.com/store/apps/details?id=radio.supernova.network",
 
     "art_api": "https://metadata.jggg1994.workers.dev",
 
@@ -485,6 +485,7 @@
     ]
 
 }
+
 
 
 
