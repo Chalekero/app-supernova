@@ -5,6 +5,10 @@
     "stream_url": "https://stream.zeno.fm/wrgtjlo80ctvv",
     "share": "Escucha Supernova 92.7 FM desde la aplicación - SUPERNOVA 92.7 FM https://www.dropbox.com/scl/fi/h5fz138oilfynbce59mjw/Supernova-92-7-FM.apk?rlkey=qnmueh2sy51ruy946kfl03d8u&e=1&st=17mzb9nr&dl=1",
     "rate": "https://wa.me/584127871663",
+
+    "art_api": "https://metadata.jggg1994.workers.dev",
+
+    
     "config": {
         "background": "https://i.imgur.com/D5FWl0w.png",
         "background_programa": "https://i.imgur.com/PupQXkY.png",
@@ -76,7 +80,7 @@
             "start": 8,
             "end": 10,
             "name": "EL MACHIQUENSE",
-            "logo": "https://i.imgur.com/StYUFOY.png",
+            "logo": "https://cdn.jsdelivr.net/gh/Chalekero/supernova-arts/elmachiquenseconfreddyalbertoleon.png",
             "facebook": "https://www.facebook.com/falEM69",
             "instagram": "https://www.instagram.com/elmachiquensedigital",
             "tiktok": "https://www.tiktok.com/@elmachiquense",
@@ -94,7 +98,7 @@
             "start": 10,
             "end": 13,
             "name": "LA BAILANTA SUPERNOVA",
-            "logo": "https://i.imgur.com/BQoxVMl.png",
+            "logo": "https://cdn.jsdelivr.net/gh/Chalekero/supernova-arts/labailantasupernova.jpg",
             "facebook": "https://www.facebook.com/arnedo.homez",
             "instagram": "",
             "tiktok": "https://www.tiktok.com/@nore1223",
@@ -130,7 +134,7 @@
             "start": 14,
             "end": 16,
             "name": "ATARDECER VALLENATO",
-            "logo": "https://i.imgur.com/R4Ziq12.png",
+            "logo": "https://cdn.jsdelivr.net/gh/Chalekero/supernova-arts/atardecervallenato.png",
             "facebook": "https://www.facebook.com/yorman.correa.5205",
             "instagram": "",
             "tiktok": "",
@@ -166,7 +170,7 @@
             "start": 18,
             "end": 20,
             "name": "ARROZ CON MANGO",
-            "logo": "https://i.imgur.com/BOSgY9T.png",
+            "logo": "https://cdn.jsdelivr.net/gh/Chalekero/supernova-arts/elsabordeladiversionarrozconmango.png",
             "facebook": "http://facebook.com/GMRomeoJG",
             "instagram": "https://www.instagram.com/joseguerreromqs/",
             "tiktok": "https://www.tiktok.com/@chalekero",
@@ -482,6 +486,7 @@
     ]
 
 }
+
 
 
 
