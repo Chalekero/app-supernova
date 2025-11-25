@@ -1,5 +1,5 @@
 {
-    "version_git": "1.0.3",
+    "version_git": "1.0.1",
     "station": "SUPERNOVA 92.7 FM",
     "mount": "wrgtjlo80ctvv",
     "stream_url": "https://stream.zeno.fm/wrgtjlo80ctvv",
@@ -485,6 +485,7 @@
     ]
 
 }
+
 
 
 
