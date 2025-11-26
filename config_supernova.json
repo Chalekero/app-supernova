@@ -1,5 +1,5 @@
 {
-    "version_git": "1.0.2",
+    "version_git": "1.0.3",
     "station": "SUPERNOVA 92.7 FM",
     "mount": "wrgtjlo80ctvv",
     "stream_url": "https://stream.zeno.fm/wrgtjlo80ctvv",
@@ -79,7 +79,7 @@
             "start": 8,
             "end": 10,
             "name": "EL MACHIQUENSE",
-            "logo": "https://cdn.jsdelivr.net/gh/Chalekero/supernova-arts/elmachiquenseconfreddyalbertoleon.png",
+            "logo": "https://i.imgur.com/StYUFOY.png",
             "facebook": "https://www.facebook.com/falEM69",
             "instagram": "https://www.instagram.com/elmachiquensedigital",
             "tiktok": "https://www.tiktok.com/@elmachiquense",
@@ -97,7 +97,7 @@
             "start": 10,
             "end": 13,
             "name": "LA BAILANTA SUPERNOVA",
-            "logo": "https://cdn.jsdelivr.net/gh/Chalekero/supernova-arts/labailantasupernova.jpg",
+            "logo": "https://i.imgur.com/BQoxVMl.png",
             "facebook": "https://www.facebook.com/arnedo.homez",
             "instagram": "",
             "tiktok": "https://www.tiktok.com/@nore1223",
@@ -133,7 +133,7 @@
             "start": 14,
             "end": 16,
             "name": "ATARDECER VALLENATO",
-            "logo": "https://cdn.jsdelivr.net/gh/Chalekero/supernova-arts/atardecervallenato.png",
+            "logo": "https://i.imgur.com/R4Ziq12.png",
             "facebook": "https://www.facebook.com/yorman.correa.5205",
             "instagram": "",
             "tiktok": "",
@@ -169,7 +169,7 @@
             "start": 18,
             "end": 20,
             "name": "ARROZ CON MANGO",
-            "logo": "https://cdn.jsdelivr.net/gh/Chalekero/supernova-arts/elsabordeladiversionarrozconmango.png",
+            "logo": "https://imgur.com/BOSgY9T",
             "facebook": "http://facebook.com/GMRomeoJG",
             "instagram": "https://www.instagram.com/joseguerreromqs/",
             "tiktok": "https://www.tiktok.com/@chalekero",
@@ -485,6 +485,7 @@
     ]
 
 }
+
 
 
 
