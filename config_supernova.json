@@ -6,7 +6,7 @@
     "share": "Escucha SUPERNOVA 92.7 FM desde la aplicación - https://play.google.com/store/apps/details?id=radio.supernova.network",
     "rate": "https://play.google.com/store/apps/details?id=radio.supernova.network",
 
-    "art_api": "https://metadata.jggg1994.workers.dev",
+    "art_api": "",
 
     "config": {
         "background": "https://i.imgur.com/D5FWl0w.png",
@@ -485,6 +485,7 @@
     ]
 
 }
+
 
 
 
