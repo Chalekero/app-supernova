@@ -3,7 +3,7 @@
     "station": "SUPERNOVA 92.7 FM",
     "mount": "wrgtjlo80ctvv",
     "stream_url": "https://stream.zeno.fm/wrgtjlo80ctvv",
-    "share": "Escucha Supernova 92.7 FM desde la aplicación - SUPERNOVA 92.7 FM https://play.google.com/store/apps/details?id=radio.supernova.network",
+    "share": "Escucha SUPERNOVA 92.7 FM desde la aplicación - https://play.google.com/store/apps/details?id=radio.supernova.network",
     "rate": "https://play.google.com/store/apps/details?id=radio.supernova.network",
 
     "art_api": "https://metadata.jggg1994.workers.dev",
@@ -485,6 +485,7 @@
     ]
 
 }
+
 
 
 
