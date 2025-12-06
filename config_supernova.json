@@ -1,5 +1,5 @@
 {
-    "version_git": "1.0.4",
+    "version_git": "1.0.5",
     "station": "SUPERNOVA 92.7 FM",
     "mount": "wrgtjlo80ctvv",
     "stream_url": "https://stream.zeno.fm/wrgtjlo80ctvv",
@@ -443,36 +443,21 @@
                 "Domingo"
             ],
             "start": 19,
-            "end": 19.5,
-            "name": "30 MINUTOS DE REGGAETON",
-            "logo": "https://i.imgur.com/WfJwGcd.png",
-            "facebook": "https://www.facebook.com/supernovafm.machiques",
-            "instagram": "https://www.instagram.com/supernovafm92.7",
-            "tiktok": "",
+            "end": 22,
+            "name": "OTRO BETA",
+            "logo": "https://i.imgur.com/snk2EJu.png",
+            "facebook": "https://www.facebook.com/QuiroLoscher1",
+            "instagram": "https://www.instagram.com/quiroloscher1",
+            "tiktok": "https://www.tiktok.com/@quiroloscher",
             "youtube": "",
-            "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*"
+            "whatsapp": "https://wa.me/584127913098?text=*¡Hola QUIRO LOSCHER!*%0AEn sintonia desde la *Aplicación* del *OTRO BETA*"
         },
         {
             "dias": [
                 "Sábado",
                 "Domingo"
             ],
-            "start": 19.5,
-            "end": 20,
-            "name": "30 MINUTOS DE BACHATA",
-            "logo": "https://i.imgur.com/S12bpgE.png",
-            "facebook": "https://www.facebook.com/supernovafm.machiques",
-            "instagram": "https://www.instagram.com/supernovafm92.7",
-            "tiktok": "",
-            "youtube": "",
-            "whatsapp": "https://wa.me/584127871663?text=*¡Hola SUPERNOVA!*%0AEn sintonia desde la *Aplicación*"
-        },
-        {
-            "dias": [
-                "Sábado",
-                "Domingo"
-            ],
-            "start": 20,
+            "start": 22,
             "end": 24,
             "name": "VALLENATOS",
             "logo": "https://i.imgur.com/RCdhVXQ.png",
@@ -485,6 +470,7 @@
     ]
 
 }
+
 
 
 
