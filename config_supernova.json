@@ -1,5 +1,5 @@
 {
-    "version_git": "1.0.6",
+    "version_git": "1.0.7",
     "station": "SUPERNOVA 92.7 FM",
     "mount": "wrgtjlo80ctvv",
     "stream_url": "https://stream.zeno.fm/wrgtjlo80ctvv",
@@ -178,7 +178,7 @@
             "end": 20,
             "name": "ARROZ CON MANGO",
             "logo": "https://i.imgur.com/BOSgY9T.png",
-            "bio_url": "https://raw.githubusercontent.com/Chalekero/programas/refs/heads/main/arroz_con_mango.json",
+            "bio_url": "https://raw.githubusercontent.com/Chalekero/programas/main/arroz_con_mango.json",
             "facebook": "http://facebook.com/GMRomeoJG",
             "instagram": "https://www.instagram.com/joseguerreromqs/",
             "tiktok": "https://www.tiktok.com/@chalekero",
